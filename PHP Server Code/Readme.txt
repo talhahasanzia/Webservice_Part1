@@ -1,0 +1,1 @@
+Place this file in "www" folder directory of your XAMP/WAMP/LAMP installed path.
